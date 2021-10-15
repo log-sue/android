@@ -1,0 +1,25 @@
+{
+  "name": "rest-api-server-for-android",
+  "version": "1.0.0",
+  "description": "Simple REST API server for android",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^3.2.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hotchya/REST-API-server-for-android.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hotchya/REST-API-server-for-android/issues"
+  },
+  "homepage": "https://github.com/hotchya/REST-API-server-for-android#readme"
+}
