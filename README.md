@@ -1,1 +1,1 @@
-# REST-API-server-for-android
+# capston2 project
